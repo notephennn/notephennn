@@ -1,5 +1,5 @@
 <h1>Hi I'm Stephen</h1>
-<h4>I'm currently learning Java</h4>
+<h4>I like to code :)</h4>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stephen_scl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ephennn04@gmail.com) 
