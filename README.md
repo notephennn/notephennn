@@ -16,5 +16,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notephennn/notephennn/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/notephennn/notephennn/output/github-snake.svg" />
 </picture>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notephennn&" alt="notephennn" /></p>
