@@ -1,27 +1,115 @@
-<h1 align="center">Hi 👋, I'm Stephen</h1>
-<h3 align="center">A passionate Data Visualization from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Stephen Christopher</h1>
+<h3 align="center">
+Data Enthusiast • Software Engineer • Dashboard & Visualization Developer
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notephennn&label=Profile%20views&color=0e75b6&style=flat" alt="notephennn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notephennn" alt="notephennn" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **kafka, d3js**
-
-- 📫 How to reach me **stephen.christopher.domsav@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/stephen_scl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stephen_scl" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/50177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="50177" height="30" width="40" /></a>
+<p align="center">
+Building modern applications, interactive dashboards, and data-driven solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notephennn&show_icons=true&locale=en&layout=compact" alt="notephennn" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notephennn&show_icons=true&locale=en" alt="notephennn" /></p>
+- 🎓 Information Systems & Technology Enthusiast
+- 📊 Passionate in Data Visualization & Dashboard Development
+- 💻 Interested in Fullstack Development, AI, and Data Engineering
+- 🌱 Currently learning:
+  - Apache Kafka
+  - D3.js
+  - Machine Learning Pipelines
+  - System Design
+- ⚡ Love building:
+  - Financial dashboards
+  - Data analytics projects
+  - Real-time applications
+  - Visualization systems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notephennn&" alt="notephennn" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,dart" />
+</p>
+
+### Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=django,mysql,sqlite" />
+</p>
+
+### Data & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,seaborn,d3,kafka" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📈 Financial Portfolio Dashboard
+Interactive investment dashboard with:
+- Portfolio tracking
+- Dividend projection
+- Market insights
+- Real-time stock visualization
+
+### 🪙 Crypto Analytics Dashboard
+Real-time cryptocurrency monitoring platform featuring:
+- Market sentiment analysis
+- BTC dominance tracker
+- AI trading signals
+- Advanced chart visualization
+
+### 🤖 NFT Wash Trading Detection
+Machine learning & analytics project for detecting suspicious NFT trading activities.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notephennn&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notephennn&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notephennn&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/stephen_scl">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  
+  <a href="https://github.com/notephennn">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+📫 Email: **stephen.christopher.domsav@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=notephennn&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
